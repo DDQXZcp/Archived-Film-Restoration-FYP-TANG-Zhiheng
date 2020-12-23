@@ -4,15 +4,15 @@
 
 There are three methods in my project
 
-##1. HMM Method 
+## 1. HMM Method 
 
 Detection and restoration using Hidden Markov Model
 
-##2. CNN Method
+## 2. CNN Method
 
 Detection and restoration using Convolutional Neural Network
 
-##3. Deep Image Prior
+## 3. Deep Image Prior
 
 Denoising using Deep Image Prior
 
