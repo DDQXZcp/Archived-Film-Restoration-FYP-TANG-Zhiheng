@@ -18,4 +18,8 @@ Denoising using Deep Image Prior
 
 Original Link: https://github.com/DmitryUlyanov/deep-image-prior
 
+# If you are interested, you can check my FYP demonstration video
+
+https://drive.google.com/drive/folders/1nmZOSGVQh_VzF6I_tuMBmxSdGgRxEZh8?usp=sharing
+
 
