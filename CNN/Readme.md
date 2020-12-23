@@ -1,4 +1,4 @@
-# CNN artifact detection and restoration
+# CNN
 
 The project is built on pycharm
 
