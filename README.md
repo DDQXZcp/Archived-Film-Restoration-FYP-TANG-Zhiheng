@@ -1,8 +1,8 @@
-# FYP_ProjectFile_TANG_Zhiheng
-
 # Advanced Image Processing and Machine-learning Techniques for Film Restoration
 
-There are three methods in my project
+FYP Project File by **Dai Xianjie** and **(Herman)TANG Zhiheng**.
+
+Xianjie, I wish you a happy life in Switzerland. It is my pleasure to work with you.
 
 ## 1. HMM Method 
 
