@@ -4,9 +4,11 @@ FYP Project File by **Dai Xianjie** and **(Herman)TANG Zhiheng**.
 
 Xianjie, I wish you a happy life in Switzerland. It is my pleasure to work with you.
 
-## 1. HMM Method 
+## 1. Hidden Markov Model Method 
 
 Detection and restoration using Hidden Markov Model
+
+Idea: Extract pixel stream from consecutive frames. Analyze the pixel's "abnomality" by Hidden Markov Model. The Model is trained from a set of degraded frames and restored frames. 
 
 ![image](https://github.com/DDQXZcp/Archived-Film-Restoration-FYP-TANG-Zhiheng/blob/main/photo/HMM_1.png)
 
@@ -15,6 +17,8 @@ Detection and restoration using Hidden Markov Model
 ## 2. CNN Method
 
 Detection and restoration using Convolutional Neural Network
+
+Idea: Apply binary semantic segmentation to a single frame. Reduced network complexity so it can operate in run-time.
 
 ![image](https://github.com/DDQXZcp/Archived-Film-Restoration-FYP-TANG-Zhiheng/blob/main/photo/CNN_1.png)
 
