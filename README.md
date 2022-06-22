@@ -8,6 +8,8 @@ Xianjie, I wish you a happy life in Switzerland. It is my pleasure to work with 
 
 Detection and restoration using Hidden Markov Model
 
+![image]()
+
 ## 2. CNN Method
 
 Detection and restoration using Convolutional Neural Network
