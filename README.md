@@ -8,11 +8,17 @@ Xianjie, I wish you a happy life in Switzerland. It is my pleasure to work with 
 
 Detection and restoration using Hidden Markov Model
 
-![image]()
+![image](https://github.com/DDQXZcp/Archived-Film-Restoration-FYP-TANG-Zhiheng/blob/main/photo/HMM_1.png)
+
+![image](https://github.com/DDQXZcp/Archived-Film-Restoration-FYP-TANG-Zhiheng/blob/main/photo/HMM_2.png)
 
 ## 2. CNN Method
 
 Detection and restoration using Convolutional Neural Network
+
+![image](https://github.com/DDQXZcp/Archived-Film-Restoration-FYP-TANG-Zhiheng/blob/main/photo/CNN_1.png)
+
+![image](https://github.com/DDQXZcp/Archived-Film-Restoration-FYP-TANG-Zhiheng/blob/main/photo/CNN_2.png)
 
 ## 3. Deep Image Prior
 
